@@ -34,10 +34,6 @@
 * 🌀 **Exploratory Learning:** Wandering around unfamiliar tech, learning on the fly, and messing around with new concepts.
 * 🤖 **Node.js & Apps:** Building custom apps, back-end logic, and developing custom server tools or security guards.
 * ⚙️ **APIs & Automation:** Playing around with APIs and automation tools to make things work seamlessly.
-
-<br clear="both" />
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aexzem/aexzem/pacman-output/breakout-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aexzem/aexzem/pacman-output/breakout-contribution-graph.svg" />
