@@ -1,16 +1,60 @@
-## Hi there 👋
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=35&color=002060&fontColor=66ffff&fontAlign=50&fontAlignY=45&stroke=-&text=Hi,%20I'm%20AexZeM" />
+</div>
 
-<!--
-**AexZeM/AexZeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Nom Nom 🦜</h2>
 
-Here are some ideas to get you started:
+<img align="right" height="220" src="https://i.pinimg.com/736x/d1/b7/b6/d1b7b6890da577ef2c32ae3f149634bc.jpg" alt="Profile Character" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35" alt="discordjs logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="35" alt="lua logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
+</p>
+
+<blockquote>
+  <strong>Creating things has always been fun for me. Now, I'm just sharing the journey.</strong>
+</blockquote>
+
+### 🎭 Artist • 💻 Developer • 📝 Writer
+
+---
+
+### 🧠 Current Interests
+
+* 🔗 **Connecting different fields:** Trying to connect different fields and building unique concepts out of them.
+* 🔎 **Problem Solving:** Spotting a missing piece/bug in a system and building my own way to solve it.
+* 🌀 **Exploratory Learning:** Wandering around unfamiliar tech, learning on the fly, and messing around with new concepts.
+* 🤖 **Node.js & Apps:** Building custom apps, back-end logic, and developing custom server tools or security guards.
+* ⚙️ **APIs & Automation:** Playing around with APIs and automation tools to make things work seamlessly.
+
+<br clear="both">
+<br />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aexzem/aexzem/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aexzem/aexzem/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aexzem/aexzem/pacman-output/breakout-contribution-graph.svg">
+</picture>
+
+###
